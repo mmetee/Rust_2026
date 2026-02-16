@@ -1,1 +1,1 @@
-# long_learn_Rust
+# lomg_learn_Rust
