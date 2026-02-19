@@ -1,0 +1,13 @@
+learning Rust|true
+running for 10km|false
+clean the room|false
+learning Rust|false
+running for 10km|false
+clean the room|false
+learning Rust|false
+running for 10km|false
+clean the room|false
+learning Rust|false
+running for 10km|false
+clean the room|false
+อาบน้ำหมา|false
